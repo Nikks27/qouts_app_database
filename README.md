@@ -1,16 +1,27 @@
-# qouts_app_database
+# database qouts app
 
-A new Flutter project.
+<h1 align="center"> Qoutes App</h1>
 
-## Getting Started
+<h1 align="left"></h1>
 
-This project is a starting point for a Flutter application.
+<div align ="center">
 
-A few resources to get you started if this is your first Flutter project:
+  <img src = "https://github.com/user-attachments/assets/daefe5a9-3206-410b-a696-91fb6e6d59b1" height ="550">
+   <img src = "https://github.com/user-attachments/assets/feea30cb-fe9a-4e4d-baed-5afc029a1a2b" height ="550">
+    <img src = "https://github.com/user-attachments/assets/2a121425-2536-4722-b184-a7eebdd76cd1" height ="550">
+       <img src = "https://github.com/user-attachments/assets/3e4198ea-e996-4d4c-be27-58e1a7ded682" height ="550">
+        <img src = "https://github.com/user-attachments/assets/903678e7-7eff-4be6-b8b2-a0c6620de474" height ="550">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+https://github.com/user-attachments/assets/907809ea-98a4-41b1-8d39-d8a0ceac2226
+
+
+
+
+
+
+
+</div>
